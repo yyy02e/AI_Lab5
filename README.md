@@ -114,5 +114,5 @@ Pillow==8.4.0
    - 你可以在 `transform` 变量中调整图像的大小、归一化参数等设置，或者修改 BERT 分词器的参数（如 `max_length`）。
 
 ## 联系方式
-- GitHub: [https://github.com/your-username/MultiModal-Sentiment-Analysis](https://github.com/your-username/MultiModal-Sentiment-Analysis)
-- Email: your-email@example.com
+- GitHub: [https://github.com/yyy02e/AI_Lab5](https://github.com/yyy02e/AI_Lab5)
+- Email: 13611872105@163.com
