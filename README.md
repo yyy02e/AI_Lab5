@@ -23,7 +23,10 @@
 ├── ├── resnet50-0676ba61.pth     # ResNet50 模型权重
 │   └── bert-base-uncased/        # BERT 模型文件           
 │   └── model.pth                 # 训练好后的模型权重
-├── main.py                      # 主程序，包含模型训练、验证和测试逻辑
+├── main.py                       # 主程序，包含模型训练、验证和测试逻辑
+├── onlytext.py                   #消融实验只输入文本的训练验证
+├── onlypicture.py                #消融实验只输入图像数据的训练验证
+├── result.txt                    #test预测结果
 ├── requirements.txt             # 所需依赖库
 ├── README.md                    # 项目的说明文档
 ```
